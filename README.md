@@ -53,6 +53,9 @@ Left stick click ......... L3                   Both stick clicks .. re-centre
 
 Everything is in BepInEx\config\ironblight.vr.cfg: [Controls] = gamepad buttons, [KeyControls] = keyboard keys.
 
+<img width="1519" height="1036" alt="3cd2e622-fc8f-41f1-b4b4-348ec259ab51" src="https://github.com/user-attachments/assets/0de6fe49-e96f-48c7-964f-9e2f6a44612a" />
+
+
 
 MENUS:                  point your right hand at the menu screen - a blue laser shows where -
                         and pull the trigger to click.
