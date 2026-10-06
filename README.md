@@ -7,7 +7,7 @@ VR mod for Iron Blight
 IRON BLIGHT VR  -  VR mod for "Iron Blight" (Unity 6000.3, IL2CPP, URP)
 =======================================================================
 
-Version 0.1.16 (test build).
+Version 0.1.16 (test build on Quest 3 VDXR).
 
 WHAT IT DOES
 ------------
@@ -21,8 +21,7 @@ WHAT IT DOES
 
 INSTALL
 -------
-1. BepInEx 6 (be.788 or newer) must already be in the game folder - you have it.
-2. Copy the BepInEx folder from this zip into the game folder (merge / overwrite).
+1.  unzip into the game folder.
 3. Start SteamVR (or your OpenXR runtime), then start the game.
 
 CONTROLS
