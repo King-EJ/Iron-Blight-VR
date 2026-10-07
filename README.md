@@ -67,7 +67,7 @@ LASER SIGHT:            shows while you hold the right grip (aim) - [Weapons] La
 
 NOTES / JOURNAL:        a note you read is shown on the VR screen, like the flat game shows it.
                         Point the blue laser at the note and pull the trigger: right half = next page,
-                        left half = previous page. Put it away with the game's normal button.
+                        left half = previous page. Put it away with X+Y .
                         Only the paper is shown ([Notes] NoteShowClipboard = true adds the clipboard).
                         [Notes] NoteLight = brightness of the note (it gets its own light).
                         
