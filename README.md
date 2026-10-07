@@ -98,6 +98,6 @@ Issues
 - Main menu float in front of you so just aim right controller and if you see the word on building to select even if you not looking at building
 - cant turn to adjust your body position on bike so interact with bike from rear tire to be in correct position
 - sprinting animation or reloading animation weapon will leave your hand
-- cant see whats selected on gun mod in backpack just move left stick and press a to attach or remove gun mod
+- cant see whats selected on gun mod in backpack just move left stick and press A to attach or remove gun mod
 
 Uses Astien's OpenXR bridge (see BepInEx\plugins\IBVR\LICENSES). Free, non-commercial.
