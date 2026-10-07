@@ -30,25 +30,43 @@ Left stick ............... walk (toward where you look; LeftStickAsWASD = true f
 
 Hold left grip + left stick up / right / left ... keys 1 / 2 / 3 (quick slots)
 
-Hold left grip + B ....... M key            Hold left grip + A ..... J key
+Hold left grip + B ....... M key (map)          
 
-Right trigger ............ fire (RT)            Right grip ......... aim (LT)
+Hold left grip + A ..... J key (journal)
 
-Right stick left/right ... turn                 Right stick up ..... F key
+Right trigger ............ fire (RT)
 
-Right stick down ......... RB                   Right stick click .. Q key
+Right grip ......... aim 
+
+Right stick left/right ... turn 
+
+Right stick up ..... F key (flashlight)
+
+Right stick down ......... RB (aim)
+
+Right stick click .. Q key (kick)
 
 Left trigger ............. RB (same as right stick down)
 
-A (tap) .................. A                    Hold A ............. X key
+A (tap) .................. A (interact)
 
-B ........................ B                    X (tap) ............ X button
+Hold A ............. X key (heal)
 
-Y (tap) .................. Space key            Hold Y ............. laser on / off
+B ........................ B (crouch)
 
-X + Y together ........... pause (Start)        Hold X ............. Back / View
+X (tap) ............ X button
 
-Left stick click ......... L3                   Both stick clicks .. re-centre
+Y (tap) .................. Space key (unjam gun\shotgun)
+
+Hold Y ............. laser on / off
+
+X + Y together ........... pause (Start) 
+
+Hold X ............. Back / View
+
+Left stick click ......... L3 
+
+Both stick clicks .. re-centre
 
 Everything is in BepInEx\config\ironblight.vr.cfg: [Controls] = gamepad buttons, [KeyControls] = keyboard keys.
 
@@ -56,42 +74,42 @@ Everything is in BepInEx\config\ironblight.vr.cfg: [Controls] = gamepad buttons,
 
 
 
-MENUS:                  point your right hand at the menu screen - a blue laser shows where -
+**MENUS:**              point your right hand at the menu screen - a blue laser shows where -
                         and pull the trigger to click.
 
                       
-BACKPACK:               Xbox gamepad controls (sticks / d-pad move, A select, B back ...), no laser.
+**BACKPACK:**           Xbox gamepad controls (sticks / d-pad move, A select, B back ...), no laser.
                         [Input] BackpackPointer = true brings the point-and-click laser back.
                         
-LASER SIGHT:            shows while you hold the right grip (aim) - [Weapons] LaserButton.
+**LASER SIGHT:**        shows while you hold the right grip (aim) - [Weapons] LaserButton.
 
-NOTES / JOURNAL:        a note you read is shown on the VR screen, like the flat game shows it.
+**NOTES / JOURNAL:**    a note you read is shown on the VR screen, like the flat game shows it.
                         Point the blue laser at the note and pull the trigger: right half = next page,
                         left half = previous page. Put it away with X+Y .
                         Only the paper is shown ([Notes] NoteShowClipboard = true adds the clipboard).
                         [Notes] NoteLight = brightness of the note (it gets its own light).
                         
-MAP:                    the map is held in your left hand while it is open, facing you.
+**MAP:**                the map is held in your left hand while it is open, facing you.
                         [Map] MapScale = size (changes live), MapOffset = where it sits, MapRotation.
                         In game: map open, hold the right stick click 1.7 s (buzz), then right grip = grab
                         the map and move / turn it, right stick up / down = size, B = default,
                         A (or R3 1.7 s again) = done. Saved as you go.
                         
-BIKE:                   cant turn to adjust your body position on bike so interact with bike from rear tire to be in correct position
+**BIKE:**               cant turn to adjust your body position on bike so interact with bike from rear tire to be in correct position
                        
-LASER ADJUST:           hold BOTH grips for 1.7 s with a gun in hand (buzz), let go, then:
+**LASER ADJUST:**       hold BOTH grips for 1.7 s with a gun in hand (buzz), let go, then:
                         left grip = grab the yellow start point and put it on the barrel,
                         right stick = steer the laser end, right grip = keep the laser pointing
                         where it points while you turn the gun, B = default,
                         A (or both grips 1.7 s again) = save for this gun. Shots follow the laser.
                         
-ARMS:                   the game's arms are hidden on every gun ([Weapons] HideArms).
+**ARMS:**               the game's arms are hidden on every gun ([Weapons] HideArms).
 
-IN-GAME SETTINGS MENU:  hold Y + left stick click for 1.7 s.
+**IN-GAME SETTINGS MENU:** hold Y + left stick click for 1.7 s.
 
-WEAPON PLACEMENT:       hold both stick clicks for 2 s (left grip = grab & move, right stick = size, A = save).
+**WEAPON PLACEMENT:**       hold both stick clicks for 2 s (left grip = grab & move, right stick = size, A = save).
 
-HAND ADJUST:            hold Y + right stick click for 1.5 s.
+**HAND ADJUST:**            hold Y + right stick click for 1.5 s.
 
 Issues 
 --------------------------------
