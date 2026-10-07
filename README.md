@@ -118,4 +118,4 @@ Issues
 - sprinting animation or reloading animation weapon will leave your hand
 - cant see whats selected on gun mod in backpack just move left stick and press A to attach or remove gun mod
 
-Uses Astien's OpenXR bridge (see BepInEx\plugins\IBVR\LICENSES). Free, non-commercial.
+Uses Astien's OpenXR bridge. Free, non-commercial.
